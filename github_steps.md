@@ -3,3 +3,4 @@
 Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
 
 1. Fork that repository
+2. Copy SSH adress and enter git clone <adress> in terminal
